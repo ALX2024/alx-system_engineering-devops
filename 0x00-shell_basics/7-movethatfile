@@ -1,2 +1,2 @@
 #!/bin/bash
-touch betty /temp
+mv betty /temp /temp/my_first_directory
